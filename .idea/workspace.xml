@@ -1,17 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="476695a0-6e43-4c42-8908-fb7dffcf6d21" name="Default Changelist" comment="" />
+    <list default="true" id="476695a0-6e43-4c42-8908-fb7dffcf6d21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/forms/SignInForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/forms/SignUpForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/game/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/game/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/game/NewGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/game/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/game/css/game.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-page-components/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-page-components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-page-components/SearchBarOfPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-page-components/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-page-components/css/head.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-page-components/css/loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/HomeGamePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Vzb4havbIlFgl61fjI13QDqohw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/page/css" />
+      <recent name="$PROJECT_DIR$/src/components/game" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -25,6 +94,21 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -35,8 +119,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578258680144</updated>
-      <workItem from="1578258685762" duration="362000" />
+      <workItem from="1578258685762" duration="10779000" />
+      <workItem from="1578304340275" duration="3633000" />
+      <workItem from="1578335150991" duration="2377000" />
+      <workItem from="1578338988751" duration="2510000" />
+      <workItem from="1578343020704" duration="2238000" />
+      <workItem from="1578346918320" duration="20437000" />
+      <workItem from="1578415411589" duration="13503000" />
+      <workItem from="1578486741003" duration="1755000" />
+      <workItem from="1578520482811" duration="1053000" />
+      <workItem from="1578568370434" duration="9009000" />
+      <workItem from="1578580618684" duration="577000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/home-page-components/Sidebar.js</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/forms/SignUpForm.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

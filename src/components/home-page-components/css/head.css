@@ -1,0 +1,74 @@
+.neon {
+    color: #fff;
+    text-shadow:
+            0 0 5px #fff,
+            0 0 10px #fff,
+            0 0 20px #fff,
+            0 0 40px #f4fdff,
+            0 0 80px #f4fdff,
+            0 0 90px #f4fdff,
+            0 0 100px #f4fdff,
+            0 0 150px #f4fdff;
+
+}
+:root {
+    font-size: calc(1vw + 1vh + 1.5vmin);
+}
+h1 {
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+}
+h5 {
+    font-weight: 200;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.container{
+    display: flex;
+    flex-flow: row;
+    align-content: flex-end;
+    justify-content:center;
+    flex-flow: row;
+    width: auto;
+}
+
+
+.container-signOut{
+    font-size: 0.7rem;
+    line-height: 1;
+    text-align: center;
+    width: 5rem;
+    flex-grow: 0.5;
+}
+
+.container-name{
+    line-height: 1;
+    text-align: center;
+    width: 35rem;
+    flex-grow:5;
+    margin-left: 6rem;
+}
+
+.container-card{
+     width: 5rem;
+     flex-grow: 1;
+}
+
+.container-search{
+    display: flex;
+    flex-flow: row;
+    align-content: flex-end;
+    justify-content:center;
+    flex-flow: row;
+    width: 25rem;
+    flex-grow: 2;
+    margin-right: 6rem;
+}
+
+.btn{
+    width: 10rem;
+    height: 5rem;
+}

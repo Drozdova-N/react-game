@@ -1,0 +1,63 @@
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.status {
+    margin-bottom: 10px;
+    color: #fdfffd;
+}
+
+.square {
+    background: #fdfbff;
+    border: 2px solid #7535b7;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 50px;
+    height: 70px;
+    width: 70px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+}
+
+.neon {
+    color: #fff;
+    text-shadow:
+            0 0 5px #fff,
+            0 0 10px #fff,
+            0 0 20px #fff,
+            0 0 40px #f4fdff,
+            0 0 80px #f4fdff;
+}
+:root {
+    font-size: calc(1vw + 1vh + 1.5vmin);
+}
+h5 {
+    font-weight: 200;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.square:focus {
+    outline: none;
+}
+
+.kbd-navigation .square:focus {
+    background: #ddd;
+}
+
+.game {
+    display: flex;
+    flex-flow: row;
+    align-content: flex-end;
+    justify-content:center;
+    flex-flow: row;
+    width: 25rem;
+    flex-grow: 5;
+    margin-right: 6rem;
+}
+
